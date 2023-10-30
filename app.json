@@ -1,0 +1,31 @@
+{
+  "name": "miArgentina",
+  "displayName": "miArgentina",
+  "expo": {
+    "name": "miArgentina",
+    "slug": "miArgentina",
+    "icon": "./assets/ic_launcher.png",
+    "version": "1.0.1",
+    "sdkVersion": "46.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.pina.miArgentina",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ic_launcher_adaptive.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#1282ba"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9fcb0d76-db41-4724-937c-1002771f3205"
+      }
+    }
+  }
+}
